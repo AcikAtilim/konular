@@ -1,2 +1,4 @@
 ilk konu benim : linux
 ikinci konu benim : linux
+
+1. Harun Çetin, Atakan Dönmez: Bash script that print external IP (https://github.com/haruncetin/get-external-ip)
